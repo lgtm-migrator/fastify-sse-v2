@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.2.2](https://github.com/NodeFactoryIo/fastify-sse-v2/compare/v2.2.1...v2.2.2) (2022-11-02)
+
+
+### Bug Fixes
+
+* missing closing bracket in readme ([#50](https://github.com/NodeFactoryIo/fastify-sse-v2/issues/50)) ([b3496f2](https://github.com/NodeFactoryIo/fastify-sse-v2/commit/b3496f23fcf03d8224843ce78e0fd05d39dcff83))
+
 ## [2.2.1](https://github.com/NodeFactoryIo/fastify-sse-v2/compare/v2.2.0...v2.2.1) (2022-06-09)
 
 
